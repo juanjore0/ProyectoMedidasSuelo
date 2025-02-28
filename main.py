@@ -1,4 +1,3 @@
-import pandas as pd
 import api.__init__ as api
 import ui.__init__ as ui
 

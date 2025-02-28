@@ -1,4 +1,3 @@
-from sodapy import Socrata
 import pandas as pd
 
 def cargar_datos(ruta_archivo):
